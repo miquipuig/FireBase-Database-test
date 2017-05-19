@@ -19,6 +19,11 @@ Getting Started
  1. On the command line run `firebase use --add` and select the Firebase project you have created.
  1. On the command line run `firebase serve` using the Firebase CLI tool to launch a local server.
 
+Extras from the original code
+-----------------------------
+
+In this example, I included standard login (under construction) and a remove button for post and comments.
+
 Support
 -------
 
